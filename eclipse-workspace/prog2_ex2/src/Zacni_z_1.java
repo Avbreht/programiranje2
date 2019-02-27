@@ -1,6 +1,6 @@
 package prog2_ex2;
 
-public class String_to_array {
+public class Zacni_z_1 {
 	// correct the name for this
 	public static void main(String[] args) {
 		String[] t = zaporedje(20);
