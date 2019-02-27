@@ -1,7 +1,7 @@
 package prog2_ex2;
 
 public class Matrix_mult {
-
+        // find out what's wrong with this 
 	public static void main(String[] args) {
 		
 		double[][] a = {{1,2},{3,4},{5,6}};
