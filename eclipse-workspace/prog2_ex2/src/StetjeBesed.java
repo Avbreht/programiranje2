@@ -5,7 +5,7 @@ import java.io.*;
 public class StetjeBesed {
 
 	public static void main(String[] args) throws IOException {
-		
+		// make sure to add the correct path for the file
 		int n = stetjeBesed("src/StetjeBesed.java", "src/StetjeBesed.txt"); 
 		System.out.println("Na datoteki je " + n + " besed.");
 
